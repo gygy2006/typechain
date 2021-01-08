@@ -1,0 +1,8 @@
+{
+  "name": "typeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gygy2006/typechain",
+  "author": "KimHeyongSeop <gygy2006@naver.com>",
+  "license": "MIT"
+}
